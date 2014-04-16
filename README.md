@@ -1,5 +1,7 @@
 git clone https://github.com/haoren3696/vimrc.git ~/.vim_runtime
+
 cd ~/.vim_runtime
+
 sudo sh install_awesome_vimrc.sh
 
 
